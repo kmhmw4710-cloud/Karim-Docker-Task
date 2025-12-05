@@ -20,4 +20,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: kareemmahmou/KarimM-2023040178:latest
+          tags: kareemmahmou/karimm-2023040178:latest
